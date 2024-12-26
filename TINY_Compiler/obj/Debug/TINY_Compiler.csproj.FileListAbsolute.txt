@@ -1,0 +1,10 @@
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\bin\Debug\TINY_Compiler.exe.config
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\bin\Debug\TINY_Compiler.exe
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\bin\Debug\TINY_Compiler.pdb
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.exe
+C:\Users\moham\OneDrive\Desktop\c\TINY-Compiler\TINY_Compiler\obj\Debug\TINY_Compiler.pdb
