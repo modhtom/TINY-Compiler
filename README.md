@@ -1,7 +1,7 @@
 # Scanner and Parser for Tiny Programming Language
 
 ## Project Overview
-This project implements a **Scanner** and **Parser** for the **Tiny Programming Language**, developed by **Team 3**. The project features lexical analysis using regular expressions to tokenize input and syntactic analysis based on a well-defined grammar for the Tiny language.
+This project implements a **Scanner** and **Parser** for the **Tiny Programming Language** . The project features lexical analysis using regular expressions to tokenize input and syntactic analysis based on a well-defined grammar for the Tiny language.
 
 ---
 
